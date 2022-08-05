@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/macbookpro/Desktop/Blockchain/anchor-contracts/Vesting_contract/target/debug/build/typenum-006ea1b6db8bb685/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/macbookpro/Desktop/Blockchain/anchor-contracts/Vesting_contract/target/debug/build/typenum-006ea1b6db8bb685/out/op.rs

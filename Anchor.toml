@@ -1,0 +1,14 @@
+[features]
+seeds = false
+[programs.devnet]
+pq_staking = "Ep5ExJgbm3C1C71QG9qdYE7ApQeJ8MetFSwAgRExs1Jv"
+
+[registry]
+url = "https://api.devnet.solana.com"
+
+[provider]
+cluster = "devnet"
+wallet = "/Users/rashidali/.config/solana/devnet.json"
+
+[scripts]
+test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
